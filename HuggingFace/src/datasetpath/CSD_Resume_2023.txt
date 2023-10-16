@@ -1,0 +1,90 @@
+Cecelia Shalini D’Souza
+Contact: 98455 42371/ cshalini@yahoo.co.uk /https://www.linkedin.com/in/ceceliashalini/ 
+Summary: 
+Results-oriented engineering leader with a focus on cloud technologies and expertise in 
+understanding legacy systems on-premises. Proficient in both modern and legacy 
+technologies, capable of bridging the gap between old and new systems. Currently 
+pursuing a course in Prompt Engineering for ChatGPT and a digital officer course offered 
+by the Indian School of Business (in progress), enhancing skills for technology-driven 
+capabilities in the age of disruption. 
+Education:
+•MS in Medical Software, MAHE, Manipal (Distinction, 2000)
+•BE in Electronics and Communication, MIT, Manipal (First Class, 1997)
+•Continuous learner at Coursera with formal training by Cloudera on Apache Spark and Data
+Analytics
+Work Experience:
+Lead Architect - Shell India Markets Pvt Ltd  Jan 2017 - Present
+Lead Architect / Design Lead - Data Platform for Subsurface and Wells – SDU/OSDU
+•Developed a data platform enabling data democratization and innovation through data 
+products.
+•Successfully migrated business and LoB to the new platform, promoting openness and 
+AI/ML-driven productivity.
+•Technology Stack: AWS, Docker, Jenkins, GitHub Actions, Python, Apache Airflow, OPA 
+Rego. In-country deployment on IBM Openshift
+•Databases: Document DB, Elasticsearch, S3, Graph DB (Neo4j), RDBMS, and other 
+managed services.
+Development Manager / Proxy Product Owner - Well Master Manager (WMM)
+•Managed development and acted as a proxy product owner for the WMM application, 
+handling well and wellbore headers.
+•Implemented standardized UI branding across SDU applications, enhancing user 
+acceptance.
+•Technology Stack: AWS, Docker, Jenkins, Java Springboot, AngularJS
+•Databases: Document DB, Elasticsearch, Neo4j
+•Legacy DB Interfaces: CDS, EDM
+Development Manager / Proxy Product Owner - WMM CDS Migration Pipeline
+•Designed and implemented Streamsets-based migration pipeline and sync pipeline for 
+business continuity and data availability.
+•Successfully mapped data from CDS to EDaM model, engaging architects and TDMs.
+•Technology Stack: Streamsets, Java Springboot
+•Databases: Document DB, Elasticsearch
+•Legacy DB Interfaces: CDS, EDM
+Technical Consultant (formerly Development Manager) - Shell Well End to End Tracker 
+(SWEET)•Led development and provided technical consultation for SWEET, a workflow tool for well 
+data acquisition.
+•Mentored the development team and facilitated technical discussions.
+•Technology Stack: .NET Web Application
+•Database: SQL Server
+•Legacy DB Interfaces: CDS, Recall, LQC Websheet
+Technical Lead - Blockchain for E&O in Data and Insights Sharing (BEODIS)
+•Led the development of a blockchain-based solution using Ethereum for ensuring compliant
+data and insight sharing.
+•Overcame knowledge gaps in blockchain technology and progressed the project as a proof 
+of concept (PoC).
+•Technology Stack: Ethereum Solidity SDK, React JS with Web3, AWS
+•Database: Ganache Local Blockchain, Rinkeby Public Test Blockchain
+SIEMENS Jun 2008 - Dec 2017
+Technical Lead / Automation Test Lead / DICOM Standard Mentor - teamplay – Cloud 
+Radiology Analytics
+•Developed a cloud-based radiology analytics solution for monitoring and sharing data from 
+radiology devices across healthcare institutions.
+•Implemented DICOM healthcare standards and received recognition for successful 
+implementation.
+•Programming Languages: C#, Java
+•Databases: SQLite, Azure SQL Database, Blob storage, Elasticsearch
+•Deployed on: Azure, Any Browser
+•Client OS: Windows 7 and higher
+Other Work Experience: GE/Sarnoff/Perfint
+•Gained experience in various projects involving client-server architecture, web-based, and 
+desktop applications.
+•Developed skills in multiple operating systems and cross-platform support.
+•Roles: Software Engineer, Manual Tester, Build and Release Engineer
+•Programming Languages: C, C++, Java
+•Databases: GE Proprietary Database, Oracle
+•Deployed on: On-prem hospitals
+•Client OS: Unix flavors, Linux flavors, Windows 7 and higher
+Know-How Profile:
+•Languages: Solidity, Spring Boot, Spring Data, Boto3, Flask, Django, AngularJS, Java 9, 
+Python, C#, C, C++.
+•AI Tooling: AWS Sagemaker, ChatGpt assisted data mapping, mermaid.live.
+•Test Frameworks: JUnit, MSTest, Moq, Fitnesse, Karate, Selenium.
+•Interpreter Languages : Shell scripting, PL/SQL, R, Octave, Scala, Python.
+•Domain Standards : Healthcare - DICOM, HL7, IHE Framework, Flask, DApps. Oil and 
+Gas - OEC and Energistics, OSDU, LFEnergy.
+•Cloud and other Platforms : Azure, AWS, GCP, IFB cloud Fabric, Smart contracts, Data 
+Brokers, Denodo, Sagemaker, Databricks, Kafka.
+•Development Tools : Eclipse, Visual Studio 2008, Optimizeit, jdb, gdb, SQL Developer, RStudio, Jupyter Notebook.
+•Database/ETL: SQLite, Oracle, Elasticsearch, Tinkerpop, Neo4j, Streamsets, Spark, Hive.
+•DevOps Tools: Git, Rational ClearCase, Docker, Terraform, Jenkins, VSTS, Jira.
+•Design Tools and Methods : UML, BizzDesign ArchiMate, SOLID, TOGAF, OOAD, AWS
+Architecture Principles.
+•Operating Systems : IBM Openshift, Linux, Solaris, SGI Irix, Windows 10 to Windows 98.

@@ -1,0 +1,526 @@
+ 
+ 
+ 
+ISB_CDO_FI  
+ 
+ 
+ 
+ISB – Fostering Innovation  
+ 
+Week 6: Organi sing for Innovation . 
+ 
+ 
+Video 1: Organising for Innovation: Overview  
+Hello. Welcome to Module 6. In this module, I'm going to talk about how do you organise for 
+innovation. I'm going to talk a little bit about the design of organisations for innovation or the 
+productivity of innovation effort itself. So remember, we've spok en about the imperatives of the CDO 
+to balance short -term and long -term objectives of the firm. The idea here that we have repeatedly 
+seen is this idea of trying to pursue digital innovation without compromising the short -term profitability 
+or the short -term objectives of the firm. And this has a tight link with achieving organisational 
+objectives as well. To ensure that ICT is not only applied in the core areas of a business, the idea that 
+it is also used to explore adjacencies are transformational project s, and this is how we've been 
+speaking about trying to maximise long -term growth without compromising the short -term objectives 
+of a firm as well.  
+ 
+To the extent that these companies can actually focus on their core as well as adjacencies, as well as 
+transformational projects. This is a way to ensure that companies can achieve both their short -term 
+as well as their long -term objectives. But more importantly, this idea of pursuing short -term versus 
+long-term objectives should be done in such a way that fir ms can explore the synergies between the 
+old and the new ideas as well. Once again, an idea that we've seen in the previous modules itself. 
+And implicitly, all of this essentially means that there could be issues with integrating R&D with 
+corporate strateg y itself. In the sense that too much of autonomy in terms of exploring adjacencies 
+and transformational projects would essentially mean that there might be very, very little synergies 
+that can be explored with the old businesses of the firm, and this in ot her way has other problems as 
+well. So, if these businesses are completely new and transformational, there's nothing wrong with that 
+except that you are probably on the same even keel as maybe the other start -ups, which are the 
+sources of creative destruct ion itself. This brings us to this idea of what might be the most optimal 
+organisational design for innovation, what is organisational design itself in the first place, and I'm 
+going to be talking about some of these issues as we go along.  
+ 
+Video 2: Organisational Design  
+So, organisational design fits into these broad areas which are essentially known as microstructures. 
+And microstructures are essentially concerned with understanding how organisations work by 
+dividing labour between different parts of the organisation and  aggregating them itself. So, how 
+organisation works by aggregating the actions of the members towards organisational goals?  There  
+ 
+are different members in an organisation. There could be different managers. There could be 
+different lower -level manager s as well. Lower level as in, the lower levels of the hierarchy. How do 
+you aggregate these different things that these people do towards a common goal, the common 
+organisation goal? This could be the corporate strategy that we are actually talking about. And 
+microstructures are also involved in understanding how to make organisations more productive by 
+simply thinking about how you divide up these tasks between different members of the organisation.  
+ 
+ 
+ISB_CDO_FI  
+ 
+And this idea of microstructures or altering the microstr uctures of organisation broadly fits into an 
+area called organisational design. And microstructural approach narrows our focus by abstracting 
+away from a variety and the complexity of organisations. So here, just as a practical matter, I'm using 
+the word " organisations". I'm not using "firms". I'm not using the word "teams". I'm not using the word 
+"divisions". But I'm using "organisations", simply because the idea of organisations can be applied to 
+teams. It could be applied to divisions. It could be applie d to firms. It could also be applied to other 
+forms of organising businesses as well.  
+ 
+So, I'm going to use the word "organisations"  very loosely to connote and abstract away from the 
+variety and the complexity of organisations themselves. I'm just goin g to call this, using the word 
+"organisations". And if you want to think about it, you can think about it either in terms of teams, 
+either in terms of divisions, or either in terms of other kinds of structures that might exist within your 
+respective firms.  And this distills into a few fundamental and universal problems of how businesses or 
+any function within the business itself should be organised for optimal performance or for,  in our 
+case, maximising innovation productivity. And this is one of the key a spects of managing itself. So, 
+one of the key functions of managers is how do you divide up tasks and how do you aggregate them. 
+If you look at managing from that perspective, organisational design, which involves dealing with 
+microstructures or altering m icrostructures to improve productivity, should be a fundamental aspect of 
+managing businesses. And this is one of the reasons why you should know a lot about it, given your 
+aspirations of becoming a CX O or a CDO. So, let's talk more about organisational des ign. When we 
+spoke about ambidexterity, we spoke a lot about structure. And we spoke about the idea that 
+structure is an important lever for organisational design that influences incentives. So what I'm saying 
+over here is, while we looked at ambidexterity  from an incentive infrastructure perspective, even the 
+idea of structure can be collapsed into this idea of organisational design. But there are other issues 
+that we will essentially focus on, which are equally important for the notion of appropriate 
+organisational design to improve innovation productivity. And I'm going to talk about some of those in 
+this module. And how do we define an organisation? Given that we are pursuing this very broad 
+definition of organisation, what is an organisation? And I'm go ing to define an organisation as any 
+multi -agent system with a common goal. And like I said, the notion of organisation could apply to 
+teams. It could apply to divisions. It could apply to firms. And all of these are examples of 
+organisation. In our contex t, digital innovation could require teams, which are one form of thinking 
+about organisations. And the key concepts are that organisations are multi -agent. There are many 
+people in this organisation, just not an individual or so. So, we're not talking abou t individuals. We are 
+talking about a unit which we are calling as organisation, which has many people, which is the reason 
+why we are calling them as multi -agent. They comprise of several individuals. But the key aspect is, 
+all of these individuals someho w have to work towards a common goal. And this could be our 
+corporate strategy. This could be a particular aspect of your innovation strategy itself. Whatever it is, 
+we are conceptualising organisations as being multi -agent. They comprise of many individua ls who 
+have to work together towards a common objective or a common goal. And that's what we're talking 
+about. But if that needs to be done, talking a little bit more about organisation design, if multiple 
+agents need to work towards a common goal, there a re, in turn, two other imperatives. There are at 
+least a couple of managerial issues that have to be sorted out for these kinds of structures to 
+essentially work towards a common goal. One is this idea of the extent of specialisation, division of 
+labour. H ow do you divide these different tasks? How do you break them down into sub -tasks and 
+assign them to different agents within the organisation? And the second one is essentially the 
+opposite of that. Once you have divided these tasks, given the objective of  trying to achieve this 
+common goal, how do you integrate them back? The idea of coordination. So, there are these two 
+tasks: Specialisation and Coordination. And the notion of micro -design essentially implies that 
+several organisational configurations mig ht be possible.  
+ 
+And what we are trying to imply over here is that these design or these configurations essentially 
+influence outcome because of moving these two levers that we spoke about, the extent of  
+ 
+ 
+ISB_CDO_FI  
+ 
+specialisation and coordination. So, why would thi s be important for innovation? There are several 
+articles. Here is one article from McKinsey that talks about why microstructures or organisational 
+design, or thinking about micro structures, which is organisational design, might be very important for 
+innovation. So this one, for example, says that there's no right way to organise R&D, but a set of core 
+design principles can provide organisations with the flexibility in order to outpace their competitors. 
+So, what this is essentially saying is that  organis ations need to think about microstructures. And one 
+of the reasons why they need to think about microstructure is to have a flexible setup, so much so 
+that organisations can actually adapt to different changes in the environment. Once again, this notion 
+of adaptability and the importance of adaptability to outpace your competitors come up. And one of 
+the ways to do that, this is what this line is saying, one of the ways to do that is by thinking about a 
+design that provides flexibility to organisations. Her e's another quote from the same article, which 
+talks a little more about digitalisation itself. So, the traditional component -based approach to R&D is 
+no longer sensible in an era when digital and electronic systems are thoroughly integrated with 
+hardware,  especially in this era of just not software. Maybe IOT, and so on and so forth. Still, many 
+companies struggle to shift towards an approach that focuses more on the function the customer 
+wants rather than components that make the desired functions work.  
+ 
+So, this once again takes on this view that it's important to be customer centric. But customer -
+centricity should not determine how organisations should be structured. In other words, organisation 
+should be structured to deliver the function rather than organisation structures being determined by 
+what just the customer might actually want. Once again, it talks about the importance of structure or 
+microstructures for performing a function, especially the last line. Here is another quote: "Determining 
+the right structure for an R&D organisation has never been easy. The division of responsibility is a 
+balancing act between project -management organisation and the R&D line organisation." So, I'm just 
+going to pause here. There are other things that are said in the same sentence, but I'm going to 
+pause here. This specifically talks about the challenges of balancing two things, which is what I'm 
+going to talk about as we move along. The idea of trying to balance the division of labour 
+specialisation on one hand, a long with the need of coordinating these different sub -tasks towards a 
+common goal. So, at least this article says that, or the sentence says that, there is a challenge, in 
+terms of being able to balance both sides of the coin that we spoke about just abou t a minute back. 
+And here, are a set of winning design principles. In the ideal R&D organisations, responsibilities are 
+clearly established. And the interfaces between them among teams are also transparent. So, this 
+talks about, "Okay, look. There is somet hing that managers can do to make two things work."  
+ 
+The idea of coordination as well as the division of labour, both sort of work simultaneously. And that's 
+the aspect that I'm essentially going to focus about. I'm going to focus on two things. One is, what is 
+the trade -off between division of labour and coordination? And how can managers solve this trade -
+off? If managers don't solve this trade -off, you're not going to achieve organisational objectives. 
+You're not going to be able to achieve innovation p roductivity. You're not going to produce ideas. 
+You're probably not going to direct some of these R&D efforts towards corporate strategy. Both of 
+these are important. How does a manager essentially achieve it? And if you believe this article, this 
+may not be as easy as it sounds. There are, however, a few principles that we can use, so that 
+managers can balance the benefits of specialisation, which I will talk about in a little bit, with the ease 
+of coordination as well, which is something that I'll also ta lk about in a few minutes. By the way, 
+organisational design or organisation design is a billion dollar practice. Here is another example from 
+Bain. So, this picture is from Bain. And if you go to any of these big consulting firms, organisational 
+design is  a key, a billion dollar practice, precisely because of the trade -off that we spoke about. With 
+innovation, the key task is dividing up R&D effort between different agents, between scientists, 
+engineers, whoever is indulging in the innovation activity, and  simply also to coordinate them 
+according to your strategic needs to maximise innovation performance.  
+  
+ 
+ 
+ISB_CDO_FI  
+ 
+ 
+ Video 3: Division of Labour, Coordination Cost and Trade -Offs 
+Let me take you through a few of the nuts and bolts of each one of these ideas of specialisation and 
+coordination. So,  
+ 
+and I'm also going to touch upon the trade -off between specialisation and coordination itself. So, let 
+me first talk about the division of labour. What do you mean by division of labour? What do we mean 
+by specialisation? And in this module, I'm going to b e using the terms, division of labour and 
+specialisation, interchangeably.  And what I mean by division of labour is this idea of partitioning a 
+complex process or a complex task into several different sub -tasks.  This is this idea of chopping it up 
+into b its,  chopping it up into smaller sub -tasks. This is what we are talking about. A given number of 
+workers can produce far more output using division of labour compared to the same number of 
+workers who are all generalists.  So now, I'm beginning to talk ab out the benefit of division of labour. 
+Why? Because if a person keeps performing a task repeatedly, that person acquires dexterity from 
+learning and that enables the person to produce a larger number of output relative to when the 
+person was a generalist. So, that's why we're talking about,  right? What would be a very good 
+example? Think about how the honeybees work. So, research suggests that honeybees are 
+incredibly specialised. And why are they specialised? Simply because they have a production 
+function , which is the idea of producing honey. And they are able to maximise the production of 
+honey simply because they are specialised. So, division of labour increases dexterity, which is the 
+reason why specialisation increases in higher productivity.  In our context, if a person specialises in a 
+particular domain, in the R&D area or digital innovation, that person is going to outperform relative to 
+trying to engage in multiple domains in the digital innovation area. So, that's what we are talking 
+about. So he re, we have spoken, not only defined what we mean by division of labour, but we've also 
+spoken about the benefits that might emanate from the division of labour. So like I said, we will use 
+the idea of gains to specialisation as the benefit that arises fro m the division of labour. So, whenever 
+I say gains to specialisation, I'm talking about the benefit of division of labour.  The other principle 
+that I really want to talk about, other than division of labour, is this idea of coordination costs. So, why 
+is it difficult to coordinate? It is because of the presence of coordination costs. There are, believe it or 
+not, costs of coordinating activities. Sometimes it involves manager's time. Sometimes it might 
+require purchase of things like software. It might eve n include other kinds of monetary investments. 
+And this is what we are calling as transaction costs. Every coordination activity involves transaction 
+costs, and this is the cost of coordinating activities between different agents. In an innovation setting,  
+this is about the costs associated with combining activities of different scientists or R&D personnel, 
+each of whom does a specific small tasks. So, let's think about a software project.  A large software 
+project,  you divided up into different modules. P eople are implementing different parts of the module; 
+people are coding up different parts of the module. But ultimately, if this software needs to become a 
+product or something that can actually be deployed within your organisation, these different module s 
+will have to be integrated.  And we would have heard about the notion of a project manager. Project 
+managers are essentially coordination specialists. So, the cost that the firm or the organisation is 
+essentially incurring, in this case, the transaction cost, is the cost of the project manager. It could 
+involve salaries. It could involve other kinds of non -monetary costs as well. The trade -off, of course, 
+is that how do you balance division of labour and coordination costs. And if you pause  for a minute 
+and think about why is there a trade -off? This would point you in this direction that if you chop up 
+task, a big task into very, very tiny bits, what you're implicitly doing is you're also increasing the cost 
+of coordination. Sure, there are gains to special isation, but too much of division of labour increases 
+coordination costs. The question is, how do I balance this trade -off or how do I continue to get gains 
+from specialisation while still keeping the coordination costs under check.  And this is where the 
+trade -off typically comes from, and tasks similarity between organisations decreases coordination 
+costs but also decreases the gains to specialisation. Let's say that you have an organisation in which 
+there are these teams, let's say, the sub -units or agen ts within the sub -units that are generalists.  
+What would happen? This would obviously minimise coordination costs simply because each one of  
+ 
+ 
+ISB_CDO_FI  
+ 
+them might have knowledge of what the other agent is essentially doing. But there may not also be 
+gains to special isation simply because each one of these agents are just being a generalist.  So, you 
+can see how these trade -offs move in the opposite direction,  these two elements move in the 
+opposite directions, which is the reason why I've used the word, trade -off. S o, if you have perfect 
+division of labour, so much so that there is essentially no overlap between functions of any two 
+agents across an organisation, then there might be a very high level or perfect division of labour. In 
+other words, no overlap. But on t he contrary, if you have a generalised setup, there is a high level of 
+overlap and perhaps also internal competition because these agents may also compare their work 
+and compete with each other. But this also means that there might be this ease of coordina tion when 
+there is generalisation, but there is also no gains from specialisation. On the contrary, if people are 
+highly specialised, there are tremendous gains from specialisation because of perfect division of 
+labour, but coordination is also going to be  a nightmare. So, under this scenario, the manager's 
+problem is essentially to figure out when he or she is trying to solve the digital innovation problem, 
+solve the digital induced creative destruction problem, what is the optimal division of labour?  
+ 
+In order to understand this question, we need to understand the pros and cons of both of these 
+constructs themselves. Pros and cons of division of labour. Pros and cons of some of the after -
+effects of overlap. Having people do these multiple tasks, which is  what I'm calling as high overlap 
+and internal competition.  If there is high overlap,  it's natural to have some element of internal 
+competition. Two agents may be competing with each other either for resources or for their outcomes 
+to be used within the organisation. So, we need to understand the pros and cons not only of division 
+of labour  but we also need to understand the pros and cons of having high overlap and internal 
+competition as well. So, to summarise, the manager's objective function is optima l design, and this 
+design is important for ensuring both gains from specialisation and low coordination costs. In 
+addition, it's also in the interest of the manager to minimise the ill effects of internal competition. 
+When there is too much division of lab our, sure there's high levels of dexterity and gains from 
+specialisation as well,  but there is too little internal competition and very high levels of coordination 
+costs. So, we have, it's very difficult for project managers to coordinate because there ar e lots of 
+these small, tiny projects that needs to be integrated across. For example, that's a problem. And if 
+people are perfectly specialised, people are also not competing with each other. Sometimes 
+competition brings out the best -of-breed projects,  an d that's also less likely to happen.  
+ 
+So, too much of division of labour, on one side, has these gains from specialisation, but on the other 
+side, it has too little internal competition and very high levels of coordination costs. Too little division 
+of labour, on the other hand, means that there is minimal learning because people are not doing the 
+same task over and over again. There is less to gain from that kind of dexterity.  But there are also 
+lower coordination costs as well and high levels of intern al competition.  People are almost fighting 
+with each other because there is a high level of overlap between tasks of different agents. So, here is 
+some of the gains of division of labour. Greater dexterity. Some of the benefits of division of labour, 
+just to summarise, is greater dexterity in tackling problems, learning by doing which helps 
+organisations to obtain greater depth of expertise.  So, you are getting deeper and deeper into a 
+given technological domain. But on the contrary, it also narrows down the scope of activities, narrows 
+ability to absorb other types of information that might be available in other divisions of the firm, other 
+organisations of the firm,  and this might increase coordination costs.  So, the important, it becomes, 
+the role of the manager, the coordinator, becomes incredibly important. It might also lend itself to 
+hyper -specialisation, and this also increases coordination costs. On the contrary, if you say that, 
+"Okay, look, I'm just not going to specialise because I'm worried a bout coordination costs",  the other 
+way to think about dividing up task is to make everyone generalist;  everybody does everything within 
+the organisation. And this creates internal competition because everybody is doing everything, it's 
+inevitable for tw o different agents to come up with very, very similar innovations. And at which point, 
+as a manager, you'll have to decide which one to use.  And that might create a source of internal 
+competition and to the extent that the resources for future projects al so depends on who wins the  
+ 
+ 
+ISB_CDO_FI  
+ 
+race in the previous round. This competition for resources might also intensify the level of internal 
+competition. So, generalisation increases or creates internal competition, which enables units, teams, 
+individuals to be put to ...  This might incentivise them to put in more effort as well.  So,  
+ 
+that might be actually be a benefit as well. So, you could look at it from two perspectives,  it is either 
+a problem to be solved or it could also be beneficial as well. And here, I've  taken the view that some 
+amount of internal competition might actually be very good simply because it enables the manager or 
+the organisation to choose the best -of-the-breed solution.  The other advantage of generalisation is 
+the ability to absorb knowled ge, i.e. there are things going on in different parts of the organisation, 
+and you know what, I'm just going to be able to understand what the other agent is essentially doing 
+within the organisation. And that just means that the ability to or the importan ce of coordination may 
+not be that much. Some of the problems of generalisation is that it creates incentives simply because 
+two people are competing with each other, and this winner take all attitude of the manager,  
+sometimes might become very, very caus tic, so much so that it creates other kinds of political issues 
+within the organisation. An internal competition also increases wastage.  So, it's inevitable. If two 
+people are producing a solution to the same problem, it's inevitable for one of them to be  wasted. So, 
+viewed from that perspective, internal competition also increases the amount of redundancy or 
+wastage as well. And these trade -offs essentially make the determination of the optimal division of 
+labour. In this trade -off, what is the optimal di vision of labour? A little bit tricky to determine for a 
+manager. So, here is an example. So take, for example, a feature, such as lane assistance for 
+vehicles. Developing further advances in this function depends on a high level of coordination among 
+team s, developing steering systems, brake systems and electrical systems as well. But too often, that 
+coordination occurs very late in the cycle, and sometimes, it can be time -consuming. R&D function 
+talks about the importance of specialisation as well as coor dination, and it laments about the fact that 
+sometimes, this coordination essentially happens so late that it makes the task of coordinating these 
+different functions become very, very difficult for a manager. As far as we are concerned, this simply 
+highli ghts the importance of division of labour as well as coordination. And in addition, it also brings 
+into focus the importance of the manager in enabling both coordination and division of labour. So, 
+now that we have understood this trade -off, how do we reso lve this trade -off? 
+ 
+Video 4: How to Resolve Trade -Offs?  
+So, now that we understand the trade -off, how do we resolve this trade -off as managers?  
+ 
+So, let's first think about what is it that we want. What happens when you have only specialisation? 
+And these outcomes, by each one of these constructs, would essentially tell us what is it that we 
+might actually want. For example, take a scenario in whic h there is only specialisation but maybe no 
+overlap at all. In that scenario, what would happen is that the specialisation of the organisation would 
+essentially create these better outcomes, but it would also increase the transaction costs of 
+coordination.  
+ 
+Let's talk about the effects of these constructs one by one. So, let's first talk about the effect of 
+specialisation. We argued that specialisation should improve outcomes of organisations simply 
+because of the dexterity that emerges from learning. If an organisation essentially had only 
+specialisation, we implied that it should create more value, more valuable innovations simply 
+because of this learning and dexterity, but it should also create lower amount of wastage. Why? 
+Simply because of greater dex terity, they might essentially be producing something of incredible 
+amount of value. On the contrary, we talked about these two dual effects of overlap itself. On one 
+hand, overlap essentially means that its coarse division of labour between units. It migh t actually be 
+able to create better impact simply because there are different people who are essentially working on  
+ 
+ 
+ISB_CDO_FI  
+ 
+the problem. This is the effect of competition. Competition gives you better outcomes simply because 
+people are competing or agents are esse ntially competing. But this might also increase wastage 
+because of higher competition. Although we looked at specialisation in isolation and we spoke about 
+it in terms of improving organisational outcomes at the level of the firm' at the level of a differe nt unit 
+of aggregation, which might be the firm that might still create suboptimal outcomes simply because 
+specialisation might increase the costs of coordination, which is really the reason why the right or the 
+most optimal design would essentially be som ething that is a combination of specialisation and 
+overlap. Specialisation and overlap increases the impact by more. It is even higher than just pure 
+specialisation, but it also reduces the cost of wastage because of the ease of coordination. So, this is 
+the right organisational configuration. And for managers who intend to maximise innovation 
+productivity, the appropriate organisational design might be one that involves a little bit of 
+specialisation and overlap.  
+ 
+Here is a summary of what I essentially spoke about. If you have highly specialised organisations 
+with perfect division of labour and no overlap, the coordination costs are immense. On the contrary, if 
+you say that look transaction, I want to minimise the transaction costs and I want to create a  
+generalised micro structure, that would essentially mean imperfect division of labour, but then there 
+is high overlap and internal competition. We know that internal competition, for example, increases 
+wastage as well. That could be best of breed outcomes  but there is also increasing wastage. On the 
+other hand, there's high levels of specialisation. People are producing better output simply because 
+of this increased learning and dexterity. But on the other hand, this may not be high enough, relative 
+to whe n people are able to combine their outputs with each other and when they are competing with 
+each other. And hence, the optimal division of labour or the structure that managers should aspire to 
+create is something which I'm calling as the optimal division of labour is one that has reasonable 
+amount of overlap with reasonable amount of specialisation.  
+ 
+So, ideal innovation organisations or experimental organisations have optimal division of labour, one 
+which has reasonable amount of overlap and one that is  also reasonably specialised. Here's an 
+example of Boeing 787 and all of us who have been following the Boeing 787 would not exactly 
+deem that project to be a big blockbuster success, partly because of the outcomes that we hear in 
+the market. Also,  partly beca use of the high levels of cost overruns that that project essentially took. 
+It took a lot more years than they had planned, and it costed them several billions of dollars more 
+than they had initially planned as well. So, why did this happen? Here's an arti cle from Fortune that 
+did a post mortem on why that might have essentially happened. And that article actually talks about 
+the way by which the 787 project was actually executed. And one of the things that was very, very 
+different in how the 787 project wa s actually executed is the fact that there were different vendors out 
+to whom the several parts of the project were essentially outsourced. And this article talks about the 
+fact that Boeing 787 project was incredibly more specialised or there was high leve ls of division of 
+labour relative to what might have actually been optimal. More interestingly, this article also talks 
+about the absence of coordination. The minute you have such division of labour, it was important to 
+have reasonable levels of coordinati on. And this article essentially talks about the failure of the 
+coordination effort, which might have essentially resulted in suboptimal outcomes for Boeing 787 
+project. Once again, it emphasises the fact that the optimal R&D organisation should be somethi ng 
+that has reasonable amount of specialisation along with reasonable amount of overlaps as well.  
+ 
+ 
+ 
+  
+ 
+ 
+ISB_CDO_FI  
+ 
+Video 5: How Do Firms Achieve a Reasonable Amount of Specialisation?  
+How do firms achieve reasonable amounts of specialization along with the ability to coordinate it or 
+overlap? Here is a non -ICT example that of a firm which is one of the market leaders in the 
+pharmaceutical industry, Novartis. Novartis spends roughly betw een 15 and 20% of the ir revenues in 
+R&D. And their entire business model, if you think about the pharmaceutical industry, the entire 
+business model of the pharmaceutical industry depends on their ability to generate blockbusters. 
+Blockbuster is any product w ith a revenue of about a billion US Dollars on an annual basis. The 
+ability to generate blockbusters is the source of competitive advantage for pharmaceutical firms such 
+as Novartis. So, you can't imagine an organization or an industry in which R&D is the source of 
+competitive advantage. How does Novartis essentially generate these blockbusters? Because 
+Novartis is one of the market leaders, they are successful in creating these blockbusters. How did 
+they achieve this? There is one for example in Cambridge.  There's another one in Basel, 
+Switzerland. There's one in Horsham, UK. There is one in East Hanover in USA, and one in 
+Shanghai, in China. What I want you to notice is that there is division of labor. For example, disease 
+areas that are housed in one orga nisation but not the other. If you think about infectious diseases, 
+you find that in Cambridge but not maybe elsewhere in the world. Similarly if you are thinking about 
+autoimmune diseases, it's there in Basel, Switzerland but not anywhere else in the worl d. Oncology 
+for example, seems like it exists in Shanghai but maybe not in every other organisation within 
+Novartis. For example, if you're thinking about Basel, Switzerland, gastrointestinal diseases overlaps 
+between Basel, Switzerland and Horsham, UK. So , here's an organisation which has reasonable 
+amounts of division of labor and reasonable amounts of overlap. This probably is one of the reasons 
+why Novartis is able to produce blockbusters, maybe a little bit better than some of their competitors 
+in the same industry. And this is an example of how to resolve the trade -off that we spoke about. 
+Oncology for example, exists in almost all the divisions except maybe Horsham, UK. And once 
+again, something that is symptomatic of reasonable amount of overlaps as well as specialisation. For 
+example, Horsham, UK does not do oncology at all. The second thing that I really wanted to talk 
+about is how do you resolve? So, one of the key aspects of management, when there is a 
+reasonable amount of overlap, is to resolve t his overlap. How do managers essentially resolve these 
+overlaps? The idea is to consolidate some of these projects. What do I mean by consolidation? It is 
+about the idea of choosing the best of breed and at the same time pacifying the losing unit, division  
+within the firm. And here are different scenarios under which consolidation can actually be done. We 
+are talking about for example, situations under which technological uncertainty is high. Market 
+uncertainty is very high. There are lots of duplicates and  so on and so forth. One of the key aspects 
+of managing when there are overlaps is thinking about the situation, and hence thinking about 
+whether to choose the best of breed or to have both of them co -exist. Under what conditions should 
+these essentially c o-exist with each other? And under what conditions only one of them should be 
+chosen? I'm going to leave you with this prescription for getting you to think about how do you 
+manage overlaps and how do these different scenarios,  
+ 
+so for example, technolog ical uncertainty, market uncertainty influence, whether you should allow 
+these projects to co -exist when there are overlaps or whether they should be consolidated. In which 
+case, you're choosing one over the other.  
+ 
+ 
+Video 6: Organisational Culture  
+This other aspect that I wanted to talk about, which is one of the key roles of a top manager, like that 
+of a C DO, is about culture. And the point that I would emphasise on to just to give you a sense of 
+where I'm going with this is this idea that common c ulture decreases coordination costs. And you 
+might wonder why?  But   
+ 
+ 
+ISB_CDO_FI  
+ 
+ 
+before I start, let me first start by defining what I mean by culture. It means different things to 
+different people. But as far as I'm concerned, I'm going to give you a very, very spe cific definition. 
+And for me, culture means collective sense making. When there is common culture, managers react 
+very, very similarly to a certain kind of stimuli. When there is common culture  that also means 
+because managers are reacting very similar to  stimuli, a common culture decreases coordination 
+costs because of coherence with the common goal. Everybody is reacting very similarly. There is 
+very little discard and that might itself minimise the coordination costs. And that's the logic that I'm 
+actua lly going after. So, to the extent, culture means collective sense making; a common culture 
+essentially decreases coordination costs. And organisations with stronger common culture create 
+more specialised teams.  
+ 
+So, it gives you the bandwidth to create more specialised teams, because think about it,  the jump in 
+coordination costs because of specialisation is not very high when there is common culture, relative 
+to their not higher rates of specialisation will not result in large increases in coordination  costs, which 
+is another reason as to why this commonness in culture could be incredibly important. As an 
+organisation, you could benefit more from specialisation. You have this opportunity to increase the 
+gains from specialisation provided you have a stro nger common culture. But then, what is strong 
+common culture? A strong common culture essentially implies the commonality in two dimensions, 
+similarity and focus. Similarity in organisational attributes that are important to employees. So, this is 
+a broad agreement on what organisational attributes essentially matter to employees and managers. 
+It also means agreement on whether they prefer many attributes  to fewer attributes for the 
+organisation. The similarity essentially means that what matters to employ ees and manager?  Is 
+there consensus in terms of which kinds of organisational attributes matter to employees? And focus 
+essentially means whether a lot of attributes matter or just a few attributes matter. And whether there 
+is commonality in that dimensio n as well? A broad agreement in both of these parameters imply that 
+people understand each other very, very well and there is a shared vision.  
+ 
+This is what we are calling as common culture. There is a shared vision of what matters to the 
+organisation, n ot individually, but as a collective. And this is what decreases coordination costs. And 
+this is the decrease in coordination costs  that gives more avenues for organisations to increase or 
+benefit more from the gains to specialisation itself. But then, ho w do managers essentially create 
+strong cultures? I'm essentially going to talk about two mechanisms, two of perhaps the most 
+important mechanisms. One idea is to remove asymmetric communication. What do I mean by 
+asymmetric communication?  You want to per mit more of peer -to-peer interaction and remove 
+asymmetry in the relationship between two people who are talking to each other.  
+ 
+So, for example, if people, if employees are talking to their managers, that's an example of 
+asymmetric communication. And on e way is to remove the asymmetric communication and 
+encourage a lot more peer -to-peer interaction. In other words, remove unnecessary hierarchies. If 
+you remove unnecessary hierarchies, there is greater amount of socialisation between peers. And 
+that essen tially increases collaboration and reduces the cost of coordination. And that, in some 
+sense, creates a common culture as people start to talk with each other. People ideas become very 
+similar. And that creates these people to somewhat coalesce around a pa rticular kind of culture. And 
+that, in turn, decreases the coordination costs. The second way to do this is, of course, to allow 
+employees to choose their projects as opposed to being assigned certain kinds of projects. And this 
+is incredibly important. We  also alluded to this in the context of corporate entrepreneurship. We 
+spoke about the success of organisations such as that of Google or, for example, 3M, because these 
+projects essentially emanate from the bottom. And the reason why these firms are succe ssful is also 
+because there is this choice of these employees to decide on which kinds of projects to pursue  
+ 
+ 
+ISB_CDO_FI  
+ 
+implicitly. And this kind of sorting, allowing employees to choose rather than being assigned projects, 
+essentially creates this idea of greater am ount of common culture as well. Because people who are 
+working on the same set of tasks or same projects essentially have, they tend to share the same 
+objective, because it's essentially the merits of that particular project or the idea that attracts them to 
+the project. So, sorting is another way to create strong common cultures.  
+ 
+So, what did we speak about in this module? We spoke about the idea or the importance of 
+organisational design to achieve a set of innovation outcomes. In particular, we broke that down to 
+this idea of why are microstructure s important. What do managers do? Managers essentially 
+manage these microstructures. And these micro structures are typically tricky to manage simply 
+because of this trade -off between specialisation on one hand, and overlap and internal 
+competition/coordination costs on the other. Specialisation requires some amount of overlap for 
+coordination  and the need for minimising wastage. But then, what is an ideal organisation design? 
+To improve organisational inno vation productivity is something that has reasonable amounts of gains 
+to specialisation, as well as something that has reasonable amount of overlap. And this is the kind of 
+R&D organisation that could essentially be the most productive in terms of innovati on output. And the 
+logic is as follows:  Too much generalisation might create hyper competition and high amounts of 
+wastage. But on the contrary, high amounts of specialisation might also increase the coordination 
+cost. The right or the optimal kind of R&D  structure essentially is a combination that allows for both 
+specialisation as well as coordination. We spoke about a couple of ways to create these kinds of 
+organisations. So, we spoke about, for example, the importance of common culture and the 
+importanc e of allowing employees to choose projects rather than being assigned projects. These are 
+two typical ways to create these common cultures and maybe to make organisations a little more 
+specialised and in terms of increasing their innovation outcomes.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
